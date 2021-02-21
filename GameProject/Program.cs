@@ -13,7 +13,7 @@ namespace GameProject
             gamer1.Id = 1;
             gamer1.FirstName = "İlayda";
             gamer1.LastName = "Erdem";
-            gamer1.NationalityId = "18001596391";
+            gamer1.NationalityId = "18001596392";
             gamer1.DateOfBirth = new DateTime(1998, 6, 24);
 
             GamerCheckManager gamerCheckManager = new GamerCheckManager();

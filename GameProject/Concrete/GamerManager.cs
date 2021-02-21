@@ -10,7 +10,7 @@ namespace GameProject.Concrete
     {
         public void Add(Gamer gamer)
         {
-            Console.WriteLine("");
+            throw new NotImplementedException();
         }
 
         public void Delete(Gamer gamer)
